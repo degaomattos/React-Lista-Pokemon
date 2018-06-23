@@ -1,0 +1,1 @@
+$ npm start ( Para iniciar o projeto 
